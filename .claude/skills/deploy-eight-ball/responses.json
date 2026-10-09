@@ -1,0 +1,51 @@
+{
+  "monday": [
+    "Ask again after coffee. Monday-you is not qualified to approve this yet.",
+    "Maybe. The weekend's merge pile hasn't been reviewed, so brace for surprises.",
+    "Yes, but only the small stuff. Monday is for easing in, not for heroics.",
+    "Signs point to yes, as long as you can explain the change before the standup ends.",
+    "Outlook hazy. Someone still needs to read the weekend alerts first."
+  ],
+  "tuesday": [
+    "Yes. Tuesday is the Goldilocks day: the week has momentum and the weekend is far away.",
+    "Absolutely. Deploy early, watch the dashboards, and take credit by lunch.",
+    "It is certain. Ship it before Wednesday's meetings start eating the calendar.",
+    "Go for it. If it breaks, you have four whole days to fix it with dignity.",
+    "Without a doubt. Tuesday deploys are the ones legends are made of."
+  ],
+  "wednesday": [
+    "Yes, but keep it quick. Midweek is the sweet spot, and everyone is still in the office.",
+    "Most likely. Wednesday is the hump day, so push it over the hump.",
+    "Yes, definitely. A fix on Wednesday leaves plenty of room for a rollback on Thursday.",
+    "Outlook good, as long as the change is not secretly three changes.",
+    "Proceed. Just don't bundle in that 'one tiny refactor' you promised wasn't included."
+  ],
+  "thursday": [
+    "Yes, but start the clock now. Anything that goes out after lunch is Friday's problem in disguise.",
+    "Cautiously yes. Thursday is the last day with a safety net, so don't waste it on a gamble.",
+    "Reply hazy, try again. Can this wait until the roll-forward window on Monday?",
+    "Yes, if it deploys, verifies, and is behind a feature flag by 3 PM.",
+    "Better not tell you now. Thursday evening deploys have a way of becoming Friday morning incidents."
+  ],
+  "friday": [
+    "No. Not unless you want to ruin the on-call engineer's weekend.",
+    "Not on read-only Friday.",
+    "My sources say no. My sources also say they have plans this weekend.",
+    "Don't even think about it. The change freeze starts when you see this message.",
+    "Very doubtful. Ask again on Monday, when people are reachable and rested."
+  ],
+  "saturday": [
+    "Maybe, but you're the one who needs to respond to tickets.",
+    "Sure, go ahead. Just remember there's no one to blame but yourself.",
+    "If you're deploying on a Saturday, I'm not your approver. I'm your witness.",
+    "It's your weekend to ruin. Sign the incident report in advance.",
+    "Yes, technically. Spiritually, absolutely not."
+  ],
+  "sunday": [
+    "Deploying on Sunday? Bold. The on-call phone is already looking at you nervously.",
+    "Only if you enjoy Monday morning incident reviews with your name in the title.",
+    "Outlook unclear, and so is anyone's availability. Enjoy the rest of your weekend instead.",
+    "Eh, why not? If it fails, Sunday night will pair beautifully with rollback anxiety.",
+    "You can, but Monday's team will inherit whatever you ship, and they won't be grateful."
+  ]
+}
